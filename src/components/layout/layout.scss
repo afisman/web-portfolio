@@ -117,6 +117,20 @@
     }
 }
 
+@media screen and (max-width: 784px) {
+    .container {
+        &.portfolio-page {
+            .content {
+
+                .description,
+                .technologies {
+                    display: none;
+                }
+            }
+        }
+    }
+}
+
 @media screen and (max-width: 1200px) {
     .page {
         position: initial;
@@ -151,9 +165,10 @@
             }
 
             .image-box {
-                height: 200px;
+                height: 300px;
                 max-width: calc(50% - 10px);
             }
+
         }
     }
 

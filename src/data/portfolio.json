@@ -3,19 +3,22 @@
         {
             "cover": "/portfolio/code4stay.png",
             "title": "code4stay",
-            "description": "Workaway alternative for coders made with React, JSX, Node, MongoDB",
+            "description": "Workaway alternative for coders",
+            "technologies": "React, JSX, Node, MongoDB",
             "url": "https://code4stay.netlify.app/"
         },
         {
             "cover": "/portfolio/socialMe.png",
             "title": "SocialMe",
-            "description": "Pinterest clone made with React, JSX, Tailwind, Sanity.io",
+            "description": "Social media with pins",
+            "technologies": "React, JSX, Tailwind, Sanity.io",
             "url": "https://socialme-alf.netlify.app/"
         },
         {
             "cover": "/portfolio/trip&trip.png",
             "title": "trip&trip",
-            "description": "Event website for alternative therapies made with Node, Handlebars, Express, MongoDB",
+            "description": "Event website for alternative therapies",
+            "technologies": "Node, Handlebars, Express, MongoDB",
             "url": "https://trip-and-trip.herokuapp.com/"
         }
     ]

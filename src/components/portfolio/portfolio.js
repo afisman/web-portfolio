@@ -34,6 +34,7 @@ const Portfolio = () => {
                                 <div className='content'>
                                     <p className='title'>{port.title}</p>
                                     <h4 className='description'>{port.description}</h4>
+                                    <h4 className='technologies'>{port.technologies}</h4>
                                     <button className='button'
                                         onClick={() => window.open(port.url)}
                                     >

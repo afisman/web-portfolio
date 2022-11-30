@@ -56,12 +56,14 @@
             line-height: 24px;
         }
 
-        .description {
+        .description,
+        .technologies {
             font-size: 14px;
             margin-bottom: 5px;
             color: #fff;
             font-weight: 700;
         }
+
 
         .button {
             margin-top: 30px;
@@ -107,25 +109,6 @@
         &:hover .content {
             bottom: 0;
             background: transparent;
-        }
-    }
-}
-
-@media screen and (max-width: 1200px) {
-    .container .portfolio-page {
-        width: 100%;
-        padding: 20px;
-        box-sizing: border-box;
-
-        h1.page-title {
-            margin-left: 20px;
-            margin-top: 20px;
-        }
-
-        .image-box {
-            height: 200px;
-            max-width: calc(50% - 10px);
-
         }
     }
 }
