@@ -1,0 +1,22 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/code4stay.png",
+            "title": "code4stay",
+            "description": "React, JSX, Node, MongoDB",
+            "url": "https://code4stay.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/socialMe.png",
+            "title": "SocialMe",
+            "description": "React, JSX, Tailwind, Sanity.io",
+            "url": "https://socialme-alf.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/trip&trip.png",
+            "title": "trip&trip",
+            "description": "Node, Handlebars, Express, MongoDB",
+            "url": "https://trip-and-trip.herokuapp.com/"
+        }
+    ]
+}
