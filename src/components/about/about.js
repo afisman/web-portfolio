@@ -38,10 +38,10 @@ const About = () => {
                         technologies on challenging and diverse projects.</p>
                     <p align='LEFT'>
                         I'm confident, naturally curious, a fast learner,
-                        and continously working on improving my coding one problem at a time
+                        and continously working on improving my coding one problem at a time.
                     </p>
                     <p>If I had to define myself in one sentence that would be a
-                        book-worm that always strides to understand the world piece by piece
+                        book-worm that always strides to understand the world piece by piece.
                     </p>
                 </div>
                 <div className="stage-cube-cont">
