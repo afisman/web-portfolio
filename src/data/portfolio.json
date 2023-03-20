@@ -19,7 +19,7 @@
             "title": "trip&trip",
             "description": "Event website for alternative therapies",
             "technologies": "Node, Handlebars, Express, MongoDB",
-            "url": "https://trip-and-trip.herokuapp.com/"
+            "url": "https://tripandtrip.onrender.com/"
         }
     ]
 }
