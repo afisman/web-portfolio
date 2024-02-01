@@ -20,6 +20,20 @@
             "description": "Event website for alternative therapies",
             "technologies": "Node, Handlebars, Express, MongoDB",
             "url": "https://tripandtrip.onrender.com/"
+        },
+        {
+            "cover": "/portfolio/OxygenShop.png",
+            "title": "OxygenShop",
+            "description": "Layout for shop",
+            "technologies": "HTML, CSS, JS",
+            "url": "https://afisman.github.io/Oxygen-project-modules/"
+        },
+        {
+            "cover": "/portfolio/PA.png",
+            "title": "Photo Gallery",
+            "description": "Image dashboard",
+            "technologies": "React, Redux",
+            "url": "http://photo-gallery-website.s3-website.eu-north-1.amazonaws.com/"
         }
     ]
 }
