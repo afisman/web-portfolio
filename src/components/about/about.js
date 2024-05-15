@@ -4,7 +4,7 @@ import {
     faNode,
     faCss3,
     faGitAlt,
-    faHtml5,
+    faPhp,
     faJsSquare,
     faReact,
 } from '@fortawesome/free-brands-svg-icons'
@@ -33,12 +33,12 @@ const About = () => {
                             strArray={['A', 'b', 'o', 'u', 't', ' ', 'm', 'e']}
                             idx={15} />
                     </h1>
-                    <p> I'm a very ambitious front-end developer looking for a role in an
+                    <p> I'm an ambitious front-end developer looking for a role in an
                         established IT company with the opportunity to work with the latest
-                        technologies on challenging and diverse projects.</p>
+                        technologies on challenging projects.</p>
                     <p align='LEFT'>
                         I'm confident, naturally curious, a fast learner,
-                        and continously working on improving my coding one problem at a time.
+                        and continously working on improving my coding skills one problem at a time.
                     </p>
                     <p>If I had to define myself in one sentence that would be a
                         book-worm that always strides to understand the world piece by piece.
@@ -50,7 +50,7 @@ const About = () => {
                             <FontAwesomeIcon icon={faNode} color="#DD0031" />
                         </div>
                         <div className="face2">
-                            <FontAwesomeIcon icon={faHtml5} color="#F06529" />
+                            <FontAwesomeIcon icon={faPhp} color="#F06529" />
                         </div>
                         <div className="face3">
                             <FontAwesomeIcon icon={faCss3} color="#28A4D9" />

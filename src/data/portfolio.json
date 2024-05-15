@@ -34,6 +34,13 @@
             "description": "Image dashboard",
             "technologies": "React, Redux",
             "url": "http://photo-gallery-website.s3-website.eu-north-1.amazonaws.com/"
+        },
+        {
+            "cover": "/portfolio/miranda.png",
+            "title": "Hotel Miranda",
+            "description": "Hotel website",
+            "technologies": "HTML, CSS, JS",
+            "url": "https://afisman.github.io/Hotel-Miranda/"
         }
     ]
 }
