@@ -41,6 +41,13 @@
             "description": "Hotel website",
             "technologies": "HTML, CSS, JS",
             "url": "https://afisman.github.io/Hotel-Miranda/"
+        },
+        {
+            "cover": "/portfolio/Dashboard.png",
+            "title": "Dashboard Miranda",
+            "description": "Hotel management dashboard",
+            "technologies": "TypeScript, React, Redux, Node, MongoDB",
+            "url": "http://miranda-dashboard-afsmn.s3-website.eu-west-3.amazonaws.com/dashboard"
         }
     ]
 }
