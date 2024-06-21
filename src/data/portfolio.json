@@ -48,6 +48,13 @@
             "description": "Hotel management dashboard",
             "technologies": "TypeScript, React, Redux, Node, MongoDB",
             "url": "http://miranda-dashboard-afsmn.s3-website.eu-west-3.amazonaws.com/dashboard"
+        },
+        {
+            "cover": "/portfolio/GFY.png",
+            "title": "Go Fund Yourself",
+            "description": "Crowdfunding DAPP",
+            "technologies": "JavaScript, React, Solidity, Hardhat",
+            "url": "https://go-fund-yourself.netlify.app/"
         }
     ]
 }
