@@ -1,6 +1,5 @@
 import './sidebar.scss'
-import LogoS from '../../assets/images/logo-a.png'
-
+import LogoA from '../../assets/images/logo-a.png'
 
 import React, { useState } from 'react'
 import { Link, NavLink } from 'react-router-dom'
@@ -15,7 +14,7 @@ const Sidebar = () => {
     return (
         <div className='nav-bar'>
             <Link className='logo' to='/'>
-                <img src={LogoS} alt='logo' />
+                <img src={LogoA} alt='logo' />
             </Link>
             <nav className={showNav ? 'mobile-show' : ''}>
                 <NavLink exact='true' activeclassname='active' to='/'
