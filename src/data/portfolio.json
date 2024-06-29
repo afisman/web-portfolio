@@ -39,8 +39,8 @@
             "cover": "/portfolio/miranda.png",
             "title": "Hotel Miranda",
             "description": "Hotel website",
-            "technologies": "HTML, CSS, JS",
-            "url": "https://afisman.github.io/Hotel-Miranda/"
+            "technologies": "PHP, Laravel, AWS",
+            "url": "http://15.237.28.180/"
         },
         {
             "cover": "/portfolio/Dashboard.png",
